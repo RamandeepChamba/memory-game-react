@@ -1,3 +1,7 @@
+# GUIDE
+
+## check /readme.pptx for documentation
+
 # How to play
 
 - Press new game button
